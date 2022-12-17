@@ -1,3 +1,3 @@
 # Hangman-Game-in-Cs
 
-![Screenshot](Capture.png)
+![Screenshot](Capture.PNG)
